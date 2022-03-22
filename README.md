@@ -1,5 +1,15 @@
 # MERN Social 2.0
 
+https://github.com/coding-to-music/my-mern-social
+
+https://my-mern-social.herokuapp.com/
+
+By Shama Hoque https://github.com/shamahoque
+
+https://github.com/shamahoque/mern-social
+
+http://social2.mernbook.com/
+
 - _Looking for the first edition code? [Check here](https://github.com/shamahoque/mern-social/tree/master)_
 
 A simple social media application with users, posts, likes and comments - developed using React, Node, Express and MongoDB.
@@ -19,8 +29,8 @@ A simple social media application with users, posts, likes and comments - develo
 1. Make sure MongoDB is running on your system
 2. Clone this repository
 3. Open command line in the cloned folder,
-   - To install dependencies, run ` npm install ` or `yarn`
-   - To run the application for development, run ` npm run dev ` or `yarn development`
+   - To install dependencies, run `npm install` or `yarn`
+   - To run the application for development, run `npm run dev` or `yarn development`
 4. Open [localhost:3000](http://localhost:3000/) in the browser
 
 ---
